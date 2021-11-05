@@ -20,3 +20,4 @@ Accept-Language: us-en`);
 
 console.log(method); // prints DELETE
 ```
+# build-2-parse-method-from-req
